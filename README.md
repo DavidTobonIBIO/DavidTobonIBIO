@@ -31,7 +31,9 @@
 <br/>  
 
 
-## 🛠️ Languages and Tools  
+## 🛠️ Languages and Tools 
+
+<div align="center">
 <table><tr><td valign="top" width="50%">
 
 
@@ -59,6 +61,7 @@
 </div>
 
 </td></tr></table>  
+</div>
 
 
 <br/>  
