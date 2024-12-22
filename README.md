@@ -15,10 +15,10 @@
 </a>  -->
 </div>  
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMyd2lnZTQzdzR5bXFsMjdnOWNtcDQwaHFkZnpyN3o4ZGpoM3htMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.webp" align="right" height="" width="300" />  
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBwbmpnbXdwYjF3MDJtM3FjZGw4OGRtaDU5ZGk0djR5dm16a3h5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.webp" alt="hello there" align="right" height="" width="300" />  
 
 <div align="left">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
 
 - 🔭 I’m currently working on **[automated brain tumor segmentation](https://github.com/sergiocanar/SegFormer3D_baseline)**
 - 🌱 I'm currently studying **Biomedical and**
