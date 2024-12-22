@@ -2,7 +2,7 @@
 <h1 align="center">Hello :) I'm David!</h1>
 
 <div align="center">
-<a style="a:link {text-decoration: none;} a:visited {text-decoration: none;} a:hover {text-decoration: none;} a:active {text-decoration: none;}" href="https://linkedin.com/in/davidtobonmolina" target="_blank">
+<a style="text-decoration: none;" href="https://linkedin.com/in/davidtobonmolina" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a style="text-decoration:none;" href="mailto:davidtobonm@gmail.com" target="_blank">
