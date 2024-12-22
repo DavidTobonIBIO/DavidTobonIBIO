@@ -1,14 +1,14 @@
 <h1 align="center">Hello :) I'm David!</h1>
 
 <div align="center">
-<a href="https://linkedin.com/in/davidtobonmolina" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; text-decoration: none;" />
+<a href="https://linkedin.com/in/davidtobonmolina" target="_blank" style="text-decoration: none;">
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:davidtobonm@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px; text-decoration: none;">
+<a href="mailto:davidtobonm@gmail.com" target="_blank" style="text-decoration: none;">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;">
 </a>
-<a href="mailto:d.tobonm2@uniandes.edu.co" target="_blank">
-<img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white alt=outlook style="margin-bottom: 5px; text-decoration: none;">
+<a href="mailto:d.tobonm2@uniandes.edu.co" target="_blank" style="text-decoration: none;">
+<img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white alt=outlook style="margin-bottom: 5px;">
 </a>
 <p>📧 <b>davidtobonm@gmail.com</b></p>
 <p>📧 <b>d.tobonm2@uniandes.edu.co</b> </p>
