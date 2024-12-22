@@ -15,23 +15,18 @@
 </a>  -->
 </div>  
 
-<table><tr><td valign="top" width="50%">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMyd2lnZTQzdzR5bXFsMjdnOWNtcDQwaHFkZnpyN3o4ZGpoM3htMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.webp" align="right" height="" width="300" />  
 
-<div align="center">
+<div align="left">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 - 🔭 I’m currently working on **[automated brain tumor segmentation](https://github.com/sergiocanar/SegFormer3D_baseline)**
+- 🌱 I'm currently studying **Biomedical and**
 
-- 🌱 I'm currently studying **Biomedical and Software Engineering @ [Universidad de los Andes](https://www.uniandes.edu.co/)**
-
-
-</td><td valign="top" width="50%">
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMyd2lnZTQzdzR5bXFsMjdnOWNtcDQwaHFkZnpyN3o4ZGpoM3htMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.webp" align="left" height="" width="300" />  
+    **Software Engineering @ [Universidad de los Andes](https://www.uniandes.edu.co/)**
+</div>
 
 
-</td></tr></table>
 
 <br/>  
 
