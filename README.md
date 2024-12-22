@@ -24,9 +24,10 @@
 <!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
 
 - 🔭 I’m currently working on **[automated brain tumor segmentation](https://github.com/sergiocanar/SegFormer3D_baseline)**
-- 🌱 I'm currently studying **Biomedical and Software Engineering  @ [Universidad de los Andes](https://www.uniandes.edu.co/)**
+- 🏛️ I'm currently studying **Biomedical and Software Engineering  @ [Universidad de los Andes](https://www.uniandes.edu.co/)**
 </div>
-
+- 🌱 Constaly learning about Machine Learning, Computer Vision and Health tech. 
+- ⚡ Fun fact: Star Wars prosthetics are what inspired me to learn about health tech and programming.
 <br/> 
 
 ## 🛠️ Languages and Tools 
