@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on **[automated brain tumor segmentation](https://github.com/sergiocanar/SegFormer3D_baseline)**
 - 🏛️ I'm currently studying **Biomedical and Software Engineering  @ [Universidad de los Andes](https://www.uniandes.edu.co/)**
-- 🌱 Constaly learning about **Machine Learning, Computer Vision and Health Tech**. 
+- 🌱 Constantly learning about **Machine Learning, Computer Vision and Health Tech**. 
 - ⚡ Fun fact: Star Wars prosthetics are what inspired me to learn about biomedical tech and programming.
 </div>
 
