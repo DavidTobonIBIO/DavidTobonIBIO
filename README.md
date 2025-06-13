@@ -71,7 +71,7 @@
 <br/> 
 
 ## 🌠 Projects
-<div align="center">
+<div align="left">
 
 ### DocAId
 Transcripción y documentación automática de citas médicas para el registro y manejo estructurado de pacientes y sus historias clínicas. Para ayudar a los proveedores de salud a ahorrar tiempo y mejorar la precisión de los registros durante la atención al paciente.
