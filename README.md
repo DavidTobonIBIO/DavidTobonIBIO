@@ -70,10 +70,25 @@
 
 <br/> 
 
-🌠 Projects
+## 🌠 Projects
 <div align="center">
 
-</dic>
+### DocAId
+Transcripción y documentación automática de citas médicas para el registro y manejo estructurado de pacientes y sus historias clínicas. Para ayudar a los proveedores de salud a ahorrar tiempo y mejorar la precisión de los registros durante la atención al paciente.
+
+**Tecnologías usadas:** React, FastAPI, OpenAI.
+
+* [Frontend](https://github.com/DavidTobonIBIO/docaid-frontend)
+* [Backend](https://github.com/DavidTobonIBIO/docaid-backend)
+
+### OrientApp
+Aplicación de movilidad en el sistema de TransMilenio para personas con discapacidad visual. Basada en funciones de navegaión asistida basada en audio y características de accesibilidad para mejorar la movilidad autónoma de los pasajeros ciegos y de baja visión.
+
+**Tecnologías usadas:** React Native, FastAPI, Whisper, Google Cloud.
+
+*Repositorio privado.*
+
+</div>
 
 <!-- <div align="center">
 <img src="https://komarev.com/ghpvc/?username=DavidTobonIBIO&&style=flat-square" align="center" />
