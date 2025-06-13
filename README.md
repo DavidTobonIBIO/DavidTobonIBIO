@@ -92,6 +92,15 @@ Aplicación de movilidad en el sistema de TransMilenio para personas con discapa
 **Tools:** React Native, FastAPI, Whisper, Google Cloud.
 
 *Private repositoy.*
+Read the design paper [here](https://docs.google.com/document/d/1OYVWeQkz6W3IeGBgsOqhXkaOp2-UGgBGOfZ1uhSQuY8/edit?usp=sharing).
+
+### Multiple Sclerosis Spinal Cord Lesion Detection from MultiSequence MRIs
+
+Custom model architecture based on SwinUNETR for lesion detection within a missing modalities context in automated MRI analysis.
+
+Arquitectura de modelo personalizada basada en SwinUNETR para la detección de lesiones en un contexto de modalidades faltantes en el análisis automatizado de resonancias magnéticas.
+
+View the presentation [here](https://1drv.ms/p/c/12f3b0542173b6d4/Ec6b-ytWOwhMgfLSLih5WHcBzlfHAOOgYbDpc3Z2lIHeiA?e=xvvw7d).
 
 </div>
 
