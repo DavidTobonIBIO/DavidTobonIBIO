@@ -74,18 +74,24 @@
 <div align="left">
 
 ### DocAId
+
+Automatic transcription and documentation of medical appointments for structured patient and medical records management, helping healthcare providers save time and improve accuracy during patient care.
+
 Transcripción y documentación automática de citas médicas para el registro y manejo estructurado de pacientes y sus historias clínicas. Para ayudar a los proveedores de salud a ahorrar tiempo y mejorar la precisión de los registros durante la atención al paciente.
 
-**Tecnologías usadas:** React, FastAPI, OpenAI.
+**Tools:** React, FastAPI, OpenAI.
 * <a href="https://github.com/DavidTobonIBIO/docaid-frontend" target="_blank">Frontend</a>
 * <a href="https://github.com/DavidTobonIBIO/docaid-backend" target="_blank">Backend</a>
 
 ### OrientApp
+
+Mobility application for visually impaired users in the TransMilenio transit system. Integrates audio-based assisted navigation functions and accessibility features to enhance autonomous mobility for blind and low-vision passengers.
+
 Aplicación de movilidad en el sistema de TransMilenio para personas con discapacidad visual. Integra funciones de navegaión asistida basada en audio y características de accesibilidad para mejorar la movilidad autónoma de los pasajeros ciegos y de baja visión.
 
-**Tecnologías usadas:** React Native, FastAPI, Whisper, Google Cloud.
+**Tools:** React Native, FastAPI, Whisper, Google Cloud.
 
-*Repositorio privado.*
+*Private repositoy.*
 
 </div>
 
