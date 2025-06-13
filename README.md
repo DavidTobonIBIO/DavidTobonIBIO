@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello :) I'm David!</h1>
+<h1 align="center">Hello, I'm David!</h1>
 
 <div align="center">
 <a style="text-decoration: none;" href="https://linkedin.com/in/davidtobonmolina" target="_blank">
