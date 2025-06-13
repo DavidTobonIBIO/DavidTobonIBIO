@@ -40,7 +40,7 @@
 <h3> Tools I frequently use </h3>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="40" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZk8UZfRR2xkk5lMSudUbvWdCwV_mx3N5r3g&s" alt="FastAPI" height="40"></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" height="40"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>
 <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/452092/react.svg" alt="React Native" height="40" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>  
