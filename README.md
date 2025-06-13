@@ -81,7 +81,7 @@ Transcripción y documentación automática de citas médicas para el registro y
 * <a href="https://github.com/DavidTobonIBIO/docaid-backend" target="_blank">Backend</a>
 
 ### OrientApp
-Aplicación de movilidad en el sistema de TransMilenio para personas con discapacidad visual. Basada en funciones de navegaión asistida basada en audio y características de accesibilidad para mejorar la movilidad autónoma de los pasajeros ciegos y de baja visión.
+Aplicación de movilidad en el sistema de TransMilenio para personas con discapacidad visual. Integra funciones de navegaión asistida basada en audio y características de accesibilidad para mejorar la movilidad autónoma de los pasajeros ciegos y de baja visión.
 
 **Tecnologías usadas:** React Native, FastAPI, Whisper, Google Cloud.
 
